@@ -30,10 +30,11 @@
   <h3>Fun fact:</h3>
   I got to go to the country's most prestigious university for one week as an education camp when I was 11. (for whatever reason, they really insisted on us calling it a "long seminar" and not a camp. It was a camp.)
 
+### Contribution Graph
 <!-- breakout -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mher-DeLight/Mher-DeLight/output/[game-name]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mher-DeLight/Mher-DeLight/output/[game-name]-contribution-graph.svg">
-    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Mher-DeLight/Mher-DeLight/output/[game-name]-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mher-DeLight/Mher-DeLight/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mher-DeLight/Mher-DeLight/output/breakout-contribution-graph.svg">
+    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Mher-DeLight/Mher-DeLight/output/breakout-contribution-graph.svg">
 </picture>
 </div>
