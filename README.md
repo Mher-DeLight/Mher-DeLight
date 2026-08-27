@@ -32,8 +32,10 @@
     </div>
   
   <h3>Proudest project:</h3>
-  <div align="left">
-      Currently <a href="https://www.github.com/Mher-DeLight/cpersist">cpersist</a>, but at the rate it's growing, probably <a href="https://www.github.com/Mher-DeLight/Ocar">Ocar</a> very soon.
+  <div align="center">
+      <a href="https://www.github.com/Mher-DeLight/cpersist">
+          <img src="logo.svg" height="175px">
+      </a>
   </div>
   <h3>Reach me with:</h3>
   <div align="left">
