@@ -22,11 +22,11 @@
               <p><b>Languages</b></p>
               <img src="https://skillicons.dev/icons?i=cpp,c,python" height="75" />
               <p><b>Learning</b></p>
-              <img src="https://skillicons.dev/icons?i=rust" height="75" />
+              <img src="https://skillicons.dev/icons?i=rust,bash,linux" height="75" />
               <p><b>Frontend</b></p>
               <img src="https://skillicons.dev/icons?i=html,tailwind,js,css" height="75" />
               <p><b>On the side</b></p>
-              <img src="https://skillicons.dev/icons?i=neovim,godot" height="75" />
+              <img src="https://skillicons.dev/icons?i=neovim,godot,mint" height="75" />
             </div>
       </details>
     </div>
