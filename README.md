@@ -16,28 +16,32 @@
   <div align="left">
       <details open>
             <summary><h3>Working with:</h3></summary>
-            <ul>
-                <li>C/C++</li>
-                <li>Python</li>
-                <li>HTML + Tailwind</li>
-                <li>Hopefully Rust, I'm learning</li>
-                <li>Git + GitHub</li>
-                <li>clang-format</li>
-            </ul>
+            <div align="center">
+              <p><b>Tools</b></p>
+              <img src="https://skillicons.dev/icons?i=git,cmake,github,vscode" height="75" />
+              <p><b>Languages</b></p>
+              <img src="https://skillicons.dev/icons?i=cpp,c,python" height="75" />
+              <p><b>Learning</b></p>
+              <img src="https://skillicons.dev/icons?i=rust" height="75" />
+              <p><b>Frontent</b></p>
+              <img src="https://skillicons.dev/icons?i=html,tailwind,js,css" height="75" />
+              <p><b>On the side</b></p>
+              <img src="https://skillicons.dev/icons?i=neovim,godot" height="75" />
+            </div>
       </details>
     </div>
   
   <h3>Proudest project:</h3>
   <div align="left">
-    Currently <a href="https://www.github.com/Mher-DeLight/cpersist">cpersist</a>, but at the rate it's growing, probably <a href="https://www.github.com/Mher-DeLight/CasmLang">CasmLang</a> very soon.
+      Currently <a href="https://www.github.com/Mher-DeLight/cpersist">cpersist</a>, but at the rate it's growing, probably <a href="https://www.github.com/Mher-DeLight/Ocar">Ocar</a> very soon.
   </div>
   <h3>Reach me with:</h3>
   <div align="left">
-    Email. Very boring, but works very well. <a href="mailto:mherdelight@proton.me">Email me, maybe just say hi.</a>
+      Email. Very boring, but works very well. <a href="mailto:mherdelight@proton.me">Email me, maybe just say hi.</a>
   </div>
   <h3>Fun fact:</h3>
   <div align="left">
-    I got to go to the country's most prestigious university for one week as an education camp when I was 11. (for whatever reason, they really insisted on us calling it a "long seminar" and not a camp. It was a camp.)
+      I got to go to the country's most prestigious university for one week as an education camp when I was 11. (for whatever reason, they really insisted on us calling it a "long seminar" and not a camp. It was a camp.)
   </div>
 <h3>Contribution Graph</h3>
 <!-- breakout -->
