@@ -15,7 +15,7 @@
   
   <div align="left">
       <details open>
-            <summary><h3>Working with:</h3></summary>
+            <summary><h3>Toolbox:</h3></summary>
             <div align="center">
               <p><b>Tools</b></p>
               <img src="https://skillicons.dev/icons?i=git,cmake,github,vscode" height="75" />
@@ -36,10 +36,11 @@
       <a href="https://www.github.com/Mher-DeLight/cpersist">
           <img src="logo.svg" height="175px">
       </a>
+      <p><strong>cpersist:</strong> data persistence & serialization library for C++.</p>
   </div>
   <h3>Reach me with:</h3>
   <div align="left">
-      Email. Very boring, but works very well. <a href="mailto:mherdelight@proton.me">Email me, maybe just say hi.</a>
+      Email. Very boring, but works very well. <a href="mailto:mherdelight@proton.me">Email me.</a>
   </div>
   <h3>Fun fact:</h3>
   <div align="left">
