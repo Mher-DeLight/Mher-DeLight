@@ -26,7 +26,7 @@
               <p><b>Frontend</b></p>
               <img src="https://skillicons.dev/icons?i=html,tailwind,js,css" height="75" />
               <p><b>On the side</b></p>
-              <img src="https://skillicons.dev/icons?i=neovim,godot,mint" height="75" />
+              <img src="https://skillicons.dev/icons?i=neovim,godot,mint,arduino" height="75" />
             </div>
       </details>
     </div>
