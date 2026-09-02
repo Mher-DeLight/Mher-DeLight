@@ -18,15 +18,15 @@
             <summary><h3>Toolbox:</h3></summary>
             <div align="center">
               <p><b>Tools</b></p>
-              <img src="https://skillicons.dev/icons?i=git,cmake,github,vscode" height="75" />
+              <img src="tools.svg" height="75" />
               <p><b>Languages</b></p>
-              <img src="https://skillicons.dev/icons?i=cpp,c,python" height="75" />
+              <img src="langs.svg" height="75" />
               <p><b>Learning</b></p>
-              <img src="https://skillicons.dev/icons?i=rust,bash,linux" height="75" />
+              <img src="learnings.svg" height="75" />
               <p><b>Frontend</b></p>
-              <img src="https://skillicons.dev/icons?i=html,tailwind,js,css" height="75" />
+              <img src="frontend.svg" height="75" />
               <p><b>On the side</b></p>
-              <img src="https://skillicons.dev/icons?i=neovim,godot,mint,arduino" height="75" />
+              <img src="on the side.svg" height="75" />
             </div>
       </details>
     </div>
