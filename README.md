@@ -5,8 +5,7 @@
       <details open align="left">
           <summary><h3>I'm:</h3></summary>
               <ul>
-                  <li>Making parsers. Lots of parsers. Put a parser in every project, even if it doesn't need it.</li>
-                  <li>Reading Pat Morin's <i>Open Data Structures: An Introduction</i></li>
+                  <li>Experimenting with aeronautics simulations.</li>
                   <li>Contributing to open source</li>
                   <li>Learning Rust</li>
               </ul>
@@ -41,10 +40,6 @@
   <h3>Reach me with:</h3>
   <div align="left">
       Email. Very boring, but works very well. <a href="mailto:mherdelight@proton.me">Email me.</a>
-  </div>
-  <h3>Fun fact:</h3>
-  <div align="left">
-      I got to go to the country's most prestigious university for one week as an education camp when I was 11. (for whatever reason, they really insisted on us calling it a "long seminar" and not a camp. It was a camp.)
   </div>
 <h3>Contribution Graph</h3>
 <!-- breakout -->
